@@ -4,7 +4,7 @@ BinarySearchTreeRec ha methods to add value, search value, delete a value using 
 Added some coding problems involving Arrays.
 
 # Algorithms
-Added Below Sorting Algorithms
+Added Below Sorting and Search Algorithms
 BinarySearch.java  
 HeapSort.java       
 MergeSort.java   
